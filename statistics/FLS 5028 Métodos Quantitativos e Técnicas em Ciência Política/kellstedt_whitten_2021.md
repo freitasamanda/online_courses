@@ -1,9 +1,14 @@
 # KELLSTEDT, Paul M.; WHITTEN, Guy D. Fundamentos da pesquisa em ciência política. Editora Blucher, 2021
 
-**Sumário**
-[resumo do livro](#summary-do-livro) 
-[Cap. 1 ao 5 - primeiros passos](#cap-1-ao-5---primeiros-passos)
+## Sumário
+- [resumo do livro](#summary-do-livro) 
+- [Cap. 1 ao 5 - primeiros passos](#cap-1-ao-5---primeiros-passos)
+- [Cap. 5 - Mensuração](#cap-5---mensuração)
+- [Estatística Descritiva](#estatística-descritiva---primeiros-conceitos---cap5)
+- [Capítulo 12 - Juntando tudo](#capítulo-12-–-juntando-todas-as-partes-para-produzir-uma-pesquisa-eficaz)
 
+
+---
 
 # Summary do livro
 
@@ -28,7 +33,6 @@
     4. VDs limitadas e séries temporais
 5. Juntando tudo para uma pesquisa
 
-<a id="#cap-1-ao-5---primeiros-passos"></a>
 # Cap. 1 ao 5 - primeiros passos
 
 ## Da teoria à hipótese - p.34
@@ -55,7 +59,7 @@ Numa dimensão mais geral, desenvolve-se uma teoria causal sobre a correlação 
     1. Pare e reformule sua teoria e encontre essas variáveis, testando controlando por elas
     2. Se sim, continue e sumarize seus resultados
 
-## Cap. 5 - mensuração
+# Cap. 5 - mensuração
 
 > A mensuração não pode ocorrer em um vácuo teórico: O propósito teórico do empreendimento acadêmico devo informar o proesso de como mensuramos. [...] O modo como mensuramos conceitos depende do nosso objetivo 145
 > 
@@ -112,7 +116,7 @@ Estudos de série temporal tem uma única unidade de espaço que varia em vário
 Validade externa -> quando nossos resultados se aplicam não só a nossa amostra
 Validade interna -> quando provamos por meio dos nossos testes de hipótese que nossa VI realmente causa VD
 
-## Estatística descritiva - primeiros conceitos - cap.5 p.131 a
+# Estatística descritiva - primeiros conceitos - cap.5
 
 **Métrica de mensuração -** é o primeiro passo para conhecer variáveis, é o “tipo de valores que essa variável pode assumir” p.132
 
