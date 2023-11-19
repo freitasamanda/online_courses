@@ -11,4 +11,4 @@ Repositório de anotações, atividades e projetos de cursos online de data scie
 
 ## Aulas
 Além dos arquivos para os cursos, o repositório possui anotações teóricas de aulas de estatística:
-- 
+- FLS 5028 - Métodos Quantitativos e Técnicas em Ciência Política (disciplina do mestrado)
