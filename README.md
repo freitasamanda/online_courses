@@ -4,6 +4,7 @@ Repositório de anotações, atividades e projetos de cursos online de data scie
 
 ## Sumário
 
+- [Roadmap for Data Science!](#roadmap-for-data-science)
 - [Cursos](#cursos)
   - [Udemy - Formação Cientista de Dados](#udemy---formação-cientista-de-dados)
   - [freeCodeCamp - Scientific computing with Python](#freecodecamp---scientific-computing-with-python)
@@ -11,6 +12,17 @@ Repositório de anotações, atividades e projetos de cursos online de data scie
   - [freeCodeCamp - Machine Learning with Python](#freecodecamp---machine-learning-with-python)
   - [Escola Virtual Gov Br - CERTIFICAÇÃO - Análise de Dados - Fundamentos](#escola-virtual-gov-br---certificação---análise-de-dados---fundamentos)
 - [Aulas](#aulas)
+
+---
+
+## Roadmap for Data Science!
+1h de data science por dia
+
+
+Primeiro passo: cursos
+
+Terminar Udemy
+
 
 ---
 
@@ -78,34 +90,34 @@ Carga horária total: 128h
 Cursos do certificado:
 
 - [ANÁLISE DE DADOS COMO SUPORTE À TOMADA DE DECISÃO](https://www.escolavirtual.gov.br/curso/406) - 30h
-Módulo 1 - Introdução à análise de dados
-Módulo 2 - Pré-processamento de dados
-Módulo 3 - Análise descritiva
-Módulo 4 - Desenvolvimento de painel de Business Intelligence - BI
+  - Módulo 1 - Introdução à análise de dados
+  - Módulo 2 - Pré-processamento de dados
+  - Módulo 3 - Análise descritiva
+  - Módulo 4 - Desenvolvimento de painel de Business Intelligence - BI
 
 - [ANÁLISE DE DADOS EM LINGUAGEM R](https://www.escolavirtual.gov.br/curso/325) - 20h
-Módulo 1: Introdução à Análise de Dados.
-Módulo 2: Fundamentos da Linguagem R.
-Módulo 3: Introdução à Machine Learning.
-Módulo 4: Análise dos Dados na Prática.
+  - Módulo 1: Introdução à Análise de Dados.
+  - Módulo 2: Fundamentos da Linguagem R.
+  - Módulo 3: Introdução à Machine Learning.
+  - Módulo 4: Análise dos Dados na Prática.
 
 - [FUNDAMENTOS DA LEI GERAL DE PROTEÇÃO DE DADOS](https://www.escolavirtual.gov.br/curso/603) - 15h
-- Módulo 1: Conceitos básicos da LGPD; Direitos do titular; Relações e atribuições.
-- Módulo 2: Processos de tratamento de dados; Situações previstas na lei; Dados pessoais sensíveis; Dados de crianças e adolescentes; Compartilhamento e transferência de dados.
-- Módulo 3: Segurança no tratamento de dados; Privacidade dos dados; Segurança da informação; LGPD e penalidades; LGPD e demais leis.
-- Módulo 4: Organização da empresa - Serpro; implementação da LGPD; Soluções LGPD.
+  - Módulo 1: Conceitos básicos da LGPD; Direitos do titular; Relações e atribuições.
+  - Módulo 2: Processos de tratamento de dados; Situações previstas na lei; Dados pessoais sensíveis; Dados de crianças e adolescentes; Compartilhamento e transferência de dados.
+  - Módulo 3: Segurança no tratamento de dados; Privacidade dos dados; Segurança da informação; LGPD e penalidades; LGPD e demais leis.
+  - Módulo 4: Organização da empresa - Serpro; implementação da LGPD; Soluções LGPD.
 
 - [GOVERNANÇA DE DADOS](https://www.escolavirtual.gov.br/curso/270) - 30h
-- Módulo 1 - Contexto da Governança de Dados na Administração Pública
-- Módulo 2 - Princípios, importância e desafios do Gerenciamento de Dados
-- Módulo 3 - Gestão inteligente de Dados
-- Módulo 4 - Gerenciamento de Metadados e da Qualidade dos Dados
+  - Módulo 1 - Contexto da Governança de Dados na Administração Pública
+  - Módulo 2 - Princípios, importância e desafios do Gerenciamento de Dados
+  - Módulo 3 - Gestão inteligente de Dados
+  - Módulo 4 - Gerenciamento de Metadados e da Qualidade dos Dados
 
 - [GOVERNANÇA DE DADOS NA TRANSFORMAÇÃO DIGITAL](https://www.escolavirtual.gov.br/curso/536) - 25h
-- Módulo 1: Introdução à Gestão de Dados;
-- Módulo 2: A Governança de Dados na Administração Pública;
-- Módulo 3: Estrutura de Apoio à Governança de Dados;
-- Módulo 4: Governança de Dados na Prática.
+  - Módulo 1: Introdução à Gestão de Dados;
+  - Módulo 2: A Governança de Dados na Administração Pública;
+  - Módulo 3: Estrutura de Apoio à Governança de Dados;
+  - Módulo 4: Governança de Dados na Prática.
 
 - [PRIMEIROS PASSOS PARA USO DE LINGUAGEM SIMPLES](https://www.escolavirtual.gov.br/curso/315) - 8h
 
