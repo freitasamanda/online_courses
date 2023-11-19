@@ -16,13 +16,9 @@ Repositório de anotações, atividades e projetos de cursos online de data scie
 ---
 
 ## Roadmap for Data Science!
-1h de data science por dia
+1h de data science por dia, intercalando em cursos, leitura e resumo do livro de estatística organização do portfolio com o que já foi realizado de projetos.
 
-
-Primeiro passo: cursos
-
-Terminar Udemy
-
+Terminar Udemy - 13 aulas -> 3 cursos do freeCodeCamp -> certificação govbr
 
 ---
 
