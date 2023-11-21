@@ -78,7 +78,6 @@ O **box-plot** é a representação gráfica desses valores.
 - **Coeficiente de correlação de Pearson**:
 $$r_{xy} = \frac{s_{xy}}{s_{x}s_{y}}$$
 
-
 ---
 
 ## Probabilidade - capítulos 4 a 6 (p. 129 a 271)

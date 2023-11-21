@@ -18,7 +18,7 @@ Repositório de anotações, atividades e projetos de cursos online de data scie
 ## Roadmap for Data Science!
 1h de data science por dia, intercalando em cursos, leitura e resumo do livro de estatística organização do portfolio com o que já foi realizado de projetos.
 
-Terminar Udemy - 13 aulas -> 3 cursos do freeCodeCamp -> certificação govbr
+Terminar Udemy - 13 aulas -> 3 cursos do freeCodeCamp -> certificação govbr -> github and portofolio website with quarto
 
 ---
 
@@ -124,3 +124,5 @@ Cursos do certificado:
 Além dos arquivos para os cursos, o repositório possui anotações teóricas de aulas de estatística:
 
 - FLS 5028 - Métodos Quantitativos e Técnicas em Ciência Política (disciplina do mestrado)
+- Resumo do livro ANDERSON, D. R.; SWEENEY, D. J.; WILLIAMS, T. A. Estatística aplicada à Administração e Economia. São Paulo: Cengage Learning. Moving Accounting Forward, 2007
+- Resumo do livro  KELLSTEDT, Paul M.; WHITTEN, Guy D. Fundamentos da pesquisa em ciência política. Editora Blucher, 2021

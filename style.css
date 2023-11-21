@@ -1,0 +1,275 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400;600&display=swap');
+
+
+/* reset css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;   
+}
+
+body {
+    font-size: 100%;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+}
+
+/*----------------------------
+/* side nav bar */
+
+/* Style the side navigation */
+.sidenav {
+    height: 100vw;
+    width: 12vw;
+    position: fixed;
+    border-right: solid 0.2px white;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: gray;
+    overflow-x: hidden;
+  }
+  
+  /* Side navigation links */
+  .sidenav a {
+    color: white;
+    padding: 1vw;
+    text-decoration: none;
+    display: block;
+  }
+
+.sidenav-icons{
+    color: white;
+    font-size: 1.4vw;
+    padding: 0.2vw;
+}
+
+  /* Change color on hover */
+  .sidenav a:hover {
+    background-color: #ddd;
+    color: black;
+    transition: 0.5s;
+  }
+
+  /* Style the content */
+.sidenav-text{
+    color: white;
+    font-size: 1.4vw;
+}
+
+/*-------------------*/
+
+.main{
+    display: flex;
+    flex-direction: row;  
+    margin-left: 10vw;
+    height: 50vw; 
+}
+
+/*-------------------------*/
+
+/*toda parte de perfil */
+.profile{
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 30vw;
+    height: 50vw;
+}
+
+.profile-img{
+    height: 18vw;
+    border-radius: 100%;
+    align-self: center;
+    margin-top: 2vw;
+}
+
+.profile-text{
+    display: flex;
+    flex-direction: column;
+    border-bottom: solid white 0.05px;
+}
+
+.title-profile{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 2vw;
+    color: white;
+    align-self: center;
+}
+
+.subtitle-profile{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    font-size: 2vw;
+    color: white;
+    align-self: center;
+}
+
+.contatos{
+    border-top: 0.2px white;
+    margin-left: 5vw;
+}
+
+.contacts-text{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    font-size: 1.5vw;
+    color: white;
+    margin-bottom: 1vw;
+}
+
+.nav-contatos {
+    display: flex;
+    flex-direction: row;
+    gap: 1vw;
+}
+
+.contatos-links{
+    text-decoration: none;
+    font-size: 1.2vw;
+    color: white;
+    font: 200;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+}
+
+.contatos-links:hover{
+    background-color: #ddd;
+    color: black;
+    transition: 0.5s;
+}
+
+
+/*-------------------------*/
+
+/*toda parte do sobre mim*/
+.sobre-mim {
+    background-color: rgb(180, 180, 180) 211, 211, 0.784);
+    width: 70vw;
+    height: 50vw;
+}
+
+.sobre-mim-titulo{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    font-size: 4vw;
+    margin-left: 4vw;
+    margin-bottom: 1.5vw;
+    margin-top: 4vw;
+    border-bottom: 0.2px solid;
+}
+
+.sobre-mim-texto{
+    font-family: 'Oswald', sans-serif;
+    font-weight:200;
+    font-size: 1.6vw;
+    margin-left: 6vw;
+    margin-right: 3vw;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+    text-align: justify;  
+}
+
+/*-------------------------------------
+/* Style all font awesome icons */
+.contatos-icon {
+    display: flex;
+    flex-direction: row;
+    gap: 2vw;
+    padding: 1vw;
+    margin-top: 2vw;
+    margin-bottom: 2.5vw;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 100vw;
+    background: white;
+    font-size: 1.5vw;
+    color: black;
+  }
+  
+  /* Add a hover effect */
+  .contatos-icon:hover {
+    background-color: #ddd;
+    color: black;
+    opacity: 0.7;
+    transition: 0.5s;
+  }
+  
+
+/*-------------------------------------
+/* paginas secundárias */
+
+.main-secundario{
+    display: flex;
+    flex-direction: row;  
+    height: fit-content;
+    background-color: rgb(180, 180, 180) 211, 211, 0.784);
+    border-bottom: 0.2px solid; 
+    margin-bottom: 10vw;
+    }
+
+.corpo-secundarios {
+    width: 100vw;
+    margin-left: 12vw;
+    margin-bottom: 10vw;
+}
+
+.titulos-secundarios{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    font-size: 4vw;
+    margin-left: 5vw;
+    margin-bottom: 5vw;
+    margin-top: 5vw;
+    border-bottom: 0.2px solid;
+}
+
+.h2-titulos-secundarios{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    font-size: 3vw;
+    margin-left: 9vw;
+    margin-top: 2vw;
+}
+
+.textos-secundarios{
+    font-family: 'Oswald', sans-serif;
+    font-weight:200;
+    font-size: 1.7vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    text-align: justify;  
+}
+
+.secundarios-links{
+    font-family: 'Oswald', sans-serif;
+    font-weight:200;
+    font-size: 1.8vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    text-align: justify;
+    color: darkblue;
+}
+
+.secundarios-links:hover{
+    color: darkgray;
+    background-color: lightgray;
+    transition: 0.5s;
+}
+
+.h3-titulos-secundarios{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 1.7vw;
+    margin-left: 5vw;
+    margin-top: 2vw;
+}
